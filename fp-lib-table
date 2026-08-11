@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "XTR116_Custom")(type "KiCad")(uri "${KIPRJMOD}/XTR116_Custom.pretty")(options "")(descr ""))
+)
